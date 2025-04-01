@@ -1,0 +1,14 @@
+public class PiEstimator {
+    // add any desired fields here
+
+    // constructor taking in the number of sample points, numPoints, 
+    // and the number of threads used to compute the estimate
+    public PiEstimator (long numPoints, int numThreads) {
+        
+    }
+
+    // compute the estimate of pi (improve this description!)
+    public double getPiEstimate () {
+	    
+    }
+}
