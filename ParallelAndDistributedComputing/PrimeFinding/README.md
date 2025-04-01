@@ -1,3 +1,11 @@
+Assignment: Using multithreading techniques and the sieve of eratosthenes, write a program that finds all prime numbers between 0 and Integer.MAX_VALUE as fast as possible (competitive)
+
+Files Given: final-primes (folder)
+
+Written Code: ParellelPrimes, PrimeChunkTask (Improvements discussed in report)
+
+How to Test: Run PrimeTester. This outputs whether or not the program was successful. If yes, show the time it took to run. If not, show the first incorrect result.
+
 In order to run this program on the HPC cluster, use the command
 
 ```
